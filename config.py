@@ -2,8 +2,8 @@ import re
 from os import getenv
 
 #-------------------------------------------------------
-API_ID = int(getenv(""))
-API_HASH = getenv("")
+API_ID = int(getenv("23855030"))
+API_HASH = getenv("b153175da5f13f048abbce89b49f80cc")
 
 #---------------------------------------------------------
 BOT_TOKEN = getenv("7114363278:AAEhK0-sEZf308AOM0C_njyx61AmtV27qQo")
