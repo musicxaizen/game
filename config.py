@@ -6,7 +6,7 @@ API_ID = int(getenv(""))
 API_HASH = getenv("")
 
 #---------------------------------------------------------
-BOT_TOKEN = getenv("")
+BOT_TOKEN = getenv("7114363278:AAEhK0-sEZf308AOM0C_njyx61AmtV27qQo")
 # --------------------------------------------------------
 OWNER_ID = int(getenv("6806897901"))
 #--------------------------
@@ -18,7 +18,7 @@ UPLOAD_CHAT_ID = int(getenv("-1002339161004"))
 #--------------------------------
 LOGGER_ID = int(getenv("-1002342285813"))
 #--------------------------------------------------------
-MONGO_DB_URI = getenv("")
+MONGO_DB_URI = getenv("mongodb+srv://shivaiaxz:YfVBSatihAQlPAXc@cluster0.rqcpm.mongodb.net/?retryWrites=true&w=majority")
 #---------------------------------------------------------
 #update coin mongodb url
 MONGO_DB_UPDATATE_URI = getenv("mongodb+srv://shivaiaxz:YfVBSatihAQlPAXc@cluster0.rqcpm.mongodb.net/?retryWrites=true&w=majority")
