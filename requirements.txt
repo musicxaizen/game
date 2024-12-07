@@ -1,1 +1,4 @@
-.
+aiohttp==3.8.1
+Pillow==8.4.0
+python-telegram-bot==20.0
+motor==3.0.0
